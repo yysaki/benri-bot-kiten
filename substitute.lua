@@ -1,3 +1,5 @@
+-- reference url: http://qiita.com/Tatsuki-I/items/f9347f6d710d7edfaccc
+
 pastmsg = ''
 
 robot:hear(".+", function(res)
